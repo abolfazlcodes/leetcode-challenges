@@ -1,9 +1,6 @@
-<<<<<<< HEAD
-=======
 // Delete Node in a Linked List
 
 // Solution
->>>>>>> e47e532 (transfer leetcode challenges part 2)
 // There is a singly-linked list head and we want to delete a node node in it.
 
 // You are given the node to be deleted node. You will not be given access to the first node of head.
